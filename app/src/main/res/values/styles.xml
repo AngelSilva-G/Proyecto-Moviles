@@ -1,0 +1,22 @@
+<resources>
+    <!-- Tema principal de la app -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/christmas_brown</item>
+        <item name="colorAccent">@color/christmas_gold</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+
+    <!-- Botón estilo navideño -->
+    <style name="ChristmasButton">
+        <item name="android:background">@drawable/button_background</item> <!-- Fondo del botón -->
+        <item name="android:textColor">@color/christmas_white</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <!-- Texto estilo navideño -->
+    <style name="ChristmasText">
+        <item name="android:textColor">@color/christmas_green</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

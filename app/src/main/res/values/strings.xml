@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IntercambioRegalosApp</string>
+    <string name="title_register">Registro</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_alias">Alias</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_register">Registrar</string>
+    <string name="title_login">Iniciar Sesión</string>
+    <string name="button_login">Iniciar Sesión</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="welcome_message">¡Bienvenido a IntercambioRegalosApp!</string>
+    <string name="create_exchange_button">Crear Intercambio</string>
+    <string name="view_exchanges_button">Ver Mis Intercambios</string>
+    <string name="title_create_exchange">Crear Intercambio</string>
+    <string name="hint_exchange_name">Nombre del intercambio</string>
+    <string name="hint_deadline">Fecha límite (dd/mm/yyyy)</string>
+    <string name="hint_max_amount">Monto máximo del regalo</string>
+    <string name="button_confirm_exchange">Confirmar</string>
+    <string name="christmas_tree_description">Árbol de Navidad</string>
+</resources>
